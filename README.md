@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **vatsprachi10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1ZdYT5v8TFP7V43i3I4EbgdIHFJgQmCqK](https://drive.google.com/drive/u/0/folders/1ZdYT5v8TFP7V43i3I4EbgdIHFJgQmCqK)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
