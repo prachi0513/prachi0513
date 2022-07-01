@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Prachi vats</h1>
 <h3 align="center">A passionate developer from India , traversing upon different frontend technologies , libraries and framework to enhance my skill to best.</h3>
 
- <a link="https://netflix-clone-33ad7.web.app/">Netflix clone<a/>
+<a href="https://netflix-clone-33ad7.web.app/" target="_blank">Netflix - Clone</a>
 
 
 - 🌱 I’m currently learning **React , Redux and other supportive frameworks like Tailwind and React supported Material UI.**
