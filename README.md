@@ -2,10 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Prachi vats</h1>
 <h3 align="center">A passionate developer from India , traversing upon different frontend technologies , libraries and framework to enhance my skill to best.</h3>
+<p>- 👷🏻 Technophile to work using Reactjs , javascript and other Cool Front-end libraries and frameworks.</p>
+<p>- 👷🏻‍♀️ Projects , Do check them out 🙋🏻‍♀️.</p>
 
-- 👷🏻‍♀️ Projects , Do check them out 🙋🏻‍♀️
-
-   -<a href="https://netflix-clone-33ad7.web.app/" target="_blank">Netflix-Clone 🔥</a><br><br/>
+   -<a href="https://netflix-clone-33ad7.web.app/" target="_blank">Netflix-Clone 🔥</a><br/>
    -<a href="https://superb-pegasus-c0c344.netlify.app/" target="_blank">Amazon-Clone 🔥</a>
 
 - 🌱 I’m currently learning **React , Redux and other supportive frameworks like Tailwind and React supported Material UI.**
