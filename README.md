@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prachi Vats</h1>
 <h3 align="center">Software Developer Specializing in Frontend Technologies from India</h3>
 
+<p>- 👷🏻 Having 1.5 years of experience in development at CodeInvicta as SDE-1. I specialize in utilizing stacks like Adonis, React, React Native, Next.js, TypeScript, JavaScript, and Node.js.</p>
 <p>- 👷🏻 Passionate about working with React.js, JavaScript, and other advanced front-end libraries and frameworks.</p>
 <p>- 👷🏻‍♀️ Check out some of my projects 🙋🏻‍♀️:</p>
 
@@ -35,4 +36,4 @@
 <a href="https://adonisjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original-wordmark.svg" alt="AdonisJS" width="40" height="40"/> </a>
 </p>
 
-<p align="left">:UPDATE: I'm currently working at a software company called CodeInvicta for 1.5 years, utilizing stacks like Adonis, React, React Native, Next.js, TypeScript, JavaScript, and Node.js.</p>
+
