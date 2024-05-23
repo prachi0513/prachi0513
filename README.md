@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prachi Vats</h1>
-<h3 align="center">A Dedicated Software Developer Specializing in Frontend Technologies from India</h3>
+<h3 align="center">Software Developer Specializing in Frontend Technologies from India</h3>
 
 <p>- 👷🏻 Passionate about working with React.js, JavaScript, and other advanced front-end libraries and frameworks.</p>
 <p>- 👷🏻‍♀️ Check out some of my projects 🙋🏻‍♀️:</p>
